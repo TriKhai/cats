@@ -1,0 +1,23 @@
+.Our {
+    text-align: center;
+    background-image: url(https://img.thuthuat123.com/uploads/2019/06/11/hinh-nen-meo-dang-yeu-dep_093847518.jpg);
+    background-attachment: fixed;
+    color: #ffffff;
+}
+
+.Our__Tile > h1 {
+    color: #ff4f81;
+    margin-bottom: 4px;
+}
+
+.Our__Tile > p{
+    margin-bottom: 36px;
+}
+
+.Our__item > i{
+    font-size: 32px;
+    margin-bottom: 12px;
+}
+.Our__item > p{
+    font-size: 20px;
+}

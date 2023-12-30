@@ -1,0 +1,30 @@
+.navColorA {
+    color: black;
+}
+
+/* .navBrandFirst {
+    fontSize: 36px;
+} */
+
+
+
+
+.atab:hover::after{
+    color: #ff4f81;
+    width: 100%;
+}
+
+
+.atab::after {
+    content: '';
+    width: 0;
+    display: none;
+    height: 2px;
+    background-color: #ff4f81;
+    display: block;/*inline không xét được kích thước*/
+    transition: all 0.5s;
+}
+
+.txtStyle:hover {
+    color: #ff4f81;
+}

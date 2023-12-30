@@ -1,0 +1,13 @@
+.footer__container {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.footer_item h3 {
+    color: #ff4f81;
+}
+
+.footer_item p {
+    font-size: 12px;
+    margin: 0;
+}
